@@ -26,7 +26,7 @@ namespace CodingBat2.String_1
             else
                 return str;
         }
-        public static void Main(string []args)
+        public static void Main6(string []args)
         {
             Console.WriteLine(firstTwo("Hello"));
             Console.WriteLine(firstTwo("assdfg"));
