@@ -1,0 +1,15 @@
+D:\CodingBat\CodingBat2\CodingBat2\bin\Debug\net6.0\CodingBat2.exe
+D:\CodingBat\CodingBat2\CodingBat2\bin\Debug\net6.0\CodingBat2.deps.json
+D:\CodingBat\CodingBat2\CodingBat2\bin\Debug\net6.0\CodingBat2.runtimeconfig.json
+D:\CodingBat\CodingBat2\CodingBat2\bin\Debug\net6.0\CodingBat2.dll
+D:\CodingBat\CodingBat2\CodingBat2\bin\Debug\net6.0\CodingBat2.pdb
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\CodingBat2.csproj.AssemblyReference.cache
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\CodingBat2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\CodingBat2.AssemblyInfoInputs.cache
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\CodingBat2.AssemblyInfo.cs
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\CodingBat2.csproj.CoreCompileInputs.cache
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\CodingBat2.dll
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\refint\CodingBat2.dll
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\CodingBat2.pdb
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\CodingBat2.genruntimeconfig.cache
+D:\CodingBat\CodingBat2\CodingBat2\obj\Debug\net6.0\ref\CodingBat2.dll
