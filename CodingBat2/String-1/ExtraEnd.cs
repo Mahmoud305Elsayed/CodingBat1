@@ -29,7 +29,7 @@ namespace CodingBat2.String_1
                 return a + a + a;
             }
         }
-        public static void Main(string[] ar)
+        public static void Main5(string[] ar)
         {
             ExtraEnd extraEnd = new();
             Console.WriteLine(extraEnd.extraEnd("Mahmoud"));
