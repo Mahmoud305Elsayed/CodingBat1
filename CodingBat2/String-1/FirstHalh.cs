@@ -18,7 +18,7 @@ namespace CodingBat2.String_1
         {
             return str.Substring(0, str.Length / 2);
         }
-        public static void Main(string[]args)
+        public static void Main7(string[]args)
         {
             Console.WriteLine(firstHalf("WooHoo"));
             Console.WriteLine(firstHalf("hi"));
