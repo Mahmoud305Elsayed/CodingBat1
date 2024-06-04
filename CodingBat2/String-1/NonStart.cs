@@ -19,7 +19,7 @@ namespace CodingBat2.String_1
         {
             return a.Substring(1) + b.Substring(1);
         }
-        public static void Main(string[] args)
+        public static void Main10(string[] args)
         {
             Console.WriteLine(nonStart("java", "DotNet"));
             Console.WriteLine(nonStart("long", "short"));
