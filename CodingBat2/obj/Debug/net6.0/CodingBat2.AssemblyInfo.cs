@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodingBat2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94fe0c755fbbae3c47f81fcfbb785dff49de9028")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodingBat2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodingBat2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
