@@ -24,7 +24,7 @@ namespace CodingBat2.String_1
             else
                 return str;
         }
-        public static void Main(string[] args)
+        public static void Main8(string[] args)
         {
             Console.WriteLine(withoutEnd("Hello"));
             Console.WriteLine(withoutEnd("Mahmoud"));
